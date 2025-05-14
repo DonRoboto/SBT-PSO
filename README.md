@@ -15,11 +15,5 @@ To run the PPO experiment, use command:
 
 ### Citing SBT-PSO
 
-    @article{bai2024generalized,
-      title={Generalized Population-Based Training for Hyperparameter Optimization in Reinforcement Learning}, 
-      author={Hui Bai and Ran Cheng},
-      journal={IEEE Transactions on Emerging Topics in Computational Intelligence},
-      publisher = {IEEE},
-      year={2024},
-      doi={10.1109/TETCI.2024.3389777}
+    @article{
       }
