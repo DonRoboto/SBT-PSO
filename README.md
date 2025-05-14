@@ -1,4 +1,4 @@
-# Swarm Population-Based Training With Particle Swarm Optimization Learning (SBT-PSO) [arXiv](https://arxiv.org/12345.67890)
+# Swarm Population-Based Training With Particle Swarm Optimization Learning (SBT-PSO) [arXiv](https://arxiv.org/)
 
 Code for the Swarm Population-Based Training With Particle Swarm Optimization Learning (SBT-PSO) algorithm, from the paper *Swarm-Based Training for Online Hyperparameter Optimization*.
 
